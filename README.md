@@ -24,3 +24,4 @@ npm run lint
 See [Configuratio Reference](https://cli.vuejs.org/config/).
 <h2> Dokumentasi Project </h2>
 
+![Screenshot (484)](https://user-images.githubusercontent.com/53465013/97068712-565bea80-15f4-11eb-9407-d112131c3643.png)
